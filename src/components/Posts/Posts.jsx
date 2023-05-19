@@ -5,21 +5,18 @@ import Post from "../Post/Post";
 const Posts = () => {
   const blogPosts = [
     {
-      title: "JAVASCRIPT",
-      body: `JavaScript is the world most popular 
-      lightweight, interpreted compiled programming 
-      language. It is also known as scripting 
-      language for web pages. It is well-known for 
-      the development of web pages, many non-browser 
-      environments also use it. JavaScript can be 
-      used for Client-side developments as well as 
-      Server-side developments`,
-      author: "Nishant Singh ",
+      title: "Lorem Ipsum",
+      body: `Lorem ipsum fhodjovm vefue;nf nv ifu  fiufhu e ffgufbiiidfbydf dfkdiufbidsyf ddbhfdf
+      fuydfiyibfid dfiufiyodufvs sufyidvofvuivfdi dhfjhhkhdbiflb dhufivs
+      sfgsugvgfuivsd fusifybsybif, divufiidy hfiywfy;blsdy sibhdfhdtd jhvdfu ds
+      shjf gsdgudsfhbkdsia ldhyf djhgdfkoubdyrhsf sjf fvf fi sifodf sfgifbg  sisd f
+      jgf  gdf iugf sfgsl fdd fdfbuf; kldgibfibbfg hbdjkfbgy sfdhbsf `,
+      author: "Ninja ",
       imgUrl:
         "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png",
     },
     {
-      title: "Data Structure ",
+      title: "Lorem Ipsum ",
       body: `There are many real-life examples of 
       a stack. Consider an example of plates stacked 
       over one another in the canteen. The plate 
@@ -29,12 +26,12 @@ const Posts = () => {
       stack for the longest period of time. So, it 
       can be simply seen to follow LIFO(Last In 
       First Out)/FILO(First In Last Out) order.`,
-      author: "Suresh Kr",
+      author: "Ninja",
       imgUrl:
         "https://media.geeksforgeeks.org/img-practice/banner/coa-gate-2022-thumbnail.png",
     },
     {
-      title: "Algorithm",
+      title: "Lorem Ipsum",
       body: `The word Algorithm means “a process 
       or set of rules to be followed in calculations 
       or other problem-solving operations”. Therefore 
@@ -42,12 +39,12 @@ const Posts = () => {
       that step-by-step define how a work is to be 
       executed upon in order to get the expected 
       results. `,
-      author: "Monu Kr",
+      author: "Ninja",
       imgUrl:
         "https://media.geeksforgeeks.org/img-practice/banner/google-test-series-thumbnail.png",
     },
     {
-      title: "Computer Network",
+      title: "Lorem Ipsum",
       body: `An interconnection of multiple devices, 
       also known as hosts, that are connected using 
       multiple paths for the purpose of sending/
@@ -57,7 +54,7 @@ const Posts = () => {
       devices; these are known as Network devices
       and include things such as routers, switches,
       hubs, and bridges. `,
-      author: "Sonu Kr",
+      author: "Ninja",
       imgUrl:
         "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
     },
